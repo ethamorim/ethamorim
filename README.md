@@ -1,4 +1,4 @@
-### Hi, I'm Ytalo, but you can also call me Ethaniel! 👾
+### Hi, I'm Ytalo, but you can also call me Ethaniel! 👋
 
 [Versão em Português](https://github.com/deisantix/deisantix/blob/main/README-BR.md)
 
