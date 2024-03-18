@@ -1,5 +1,7 @@
-### Hi there 👋 I'm a Full-Stack Developer
+### I'm Ethaniel
 
 [Versão em Português](https://github.com/deisantix/deisantix/blob/main/README-BR.md)
 
-I'm sorry if my GitHub profile is not very formal, I like to have fun with it. I currently don't have any better link to showcase my work, but I'm working on it!
+I'm a full-stack developer, currently focusing on Java, but I have 2 years of experience working with Vue.js and Node.js, I also like playing around with Python sometimes. 
+
+Have a nice day!
